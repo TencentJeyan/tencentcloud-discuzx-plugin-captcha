@@ -41,11 +41,11 @@
 
 ### 4.1. 页面功能介绍
 
-![](../images/DiscuzX/captcha/captcha1.png)
+![](./images/captcha1.png)
 
 > 验证码设置页面，本插件已接入系统的验证码模块，开启后请前往系统后台-防灌-验证设置进行具体场景的验证码配置。
 
-![](../images/DiscuzX/captcha/captcha2.png)
+![](../images/captcha2.png)
 
 > 开启验证码之后的效果。
 
